@@ -1,4 +1,3 @@
-```markdown
 ## 📋 Prerequisites
 
 Before running the Docker commands, ensure the following software is installed on your system:
@@ -11,7 +10,7 @@ Before running the Docker commands, ensure the following software is installed o
 | **Internet Connection** | Needed to pull Docker images from Docker Hub. |
 
 > **Note:** Kubernetes (Kind/Minikube) can be installed later if container orchestration is required. Docker Desktop must be running before executing any of the commands below.
-```
+
 
 ## 🐳 Docker Commands
 
