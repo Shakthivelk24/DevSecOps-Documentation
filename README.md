@@ -11,7 +11,8 @@ A comprehensive documentation repository for implementing a **Secure DevSecOps C
 
 ### 🔗 Project Repository
 
-**https://github.com/Shakthivelk24/Request-System-DevSecOps**
+1. **https://github.com/Shakthivelk24/Request-System-DevSecOps**
+2. **https://github.com/Shakthivelk24/virtual-assistant.git**
 
 </div>
 
@@ -234,8 +235,9 @@ This project is licensed under the **MIT License**.
 
 ### 🚀 Project Repository
 
-**https://github.com/Shakthivelk24/Request-System-DevSecOps**
+1. **https://github.com/Shakthivelk24/Request-System-DevSecOps**
+2. **https://github.com/Shakthivelk24/virtual-assistant.git**
 
-Made with ❤️ by **Shakthi Vel K**
+Made with ❤️ by **Shakthi Vel K , Sanket , Revanth Kumar T S, Vignesh P**
 
 </div>
